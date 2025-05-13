@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mateus-pinheiro-silva-29741330b/" target="_blank"><img src="https://img.shields.io/badge/-linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
-### Me chamo Mateus Pinheiro Silva, tenho 17 anos e atualmente estou cursando Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Bento Quirino. Estou em busca de oportunidades de estágio ou emprego na área de tecnologia, onde eu possa aplicar meus conhecimentos e continuar aprendendo na prática. Tenho perfil no LinkedIn, onde compartilho minha trajetória e me conecto com profissionais da área. 
+### Meu nome é Mateus Pinheiro Silva, tenho 17 anos e atualmente estou cursando Desenvolvimento de Sistemas integrado ao Ensino Médio na ETEC Bento Quirino. Estou em busca de oportunidades de estágio ou emprego na área de tecnologia, onde eu possa aplicar meus conhecimentos e continuar aprendendo na prática. Tenho perfil no LinkedIn, onde compartilho minha trajetória e me conecto com profissionais da área. 
 
 ### Main skills:
 ![HTML5](https://img.shields.io/badge/-html5-9e9e9e?style=for-the-badge&logo=html5&labelColor=9e9e9e)&nbsp;
